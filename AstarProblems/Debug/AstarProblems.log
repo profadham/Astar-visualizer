@@ -1,0 +1,246 @@
+﻿  AstarProblems.cpp
+D:\c++ graphics\AstarProblems\AstarProblems\Problem.h(78,23): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+D:\c++ graphics\AstarProblems\AstarProblems\Problem.h(115,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Problem.h(288,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Problem.h(301,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Problem.h(307,39): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(21,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(21,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(22,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(22,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(27,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(27,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(31,29): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(44,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(44,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(48,30): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(58,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(58,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(59,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(59,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(66,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(66,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(68,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(68,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(72,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(72,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(74,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(74,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(78,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(78,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(80,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(80,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(140,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(143,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(152,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(155,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(155,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(157,97): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(157,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(569,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(538): message : while compiling class template member function 'std::vector<N,std::allocator<N>> Astar<N>::Solve(Problem<N> *,N)'
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(100): message : see reference to function template instantiation 'std::vector<N,std::allocator<N>> Astar<N>::Solve(Problem<N> *,N)' being compiled
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(98): message : see reference to class template instantiation 'Astar<Node>' being compiled
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(448,16): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(444): message : while compiling class template member function 'int Astar<Node>::search(std::vector<N,std::allocator<N>>,N)'
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(579): message : see reference to function template instantiation 'int Astar<Node>::search(std::vector<N,std::allocator<N>>,N)' being compiled
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(434,16): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(430): message : while compiling class template member function 'bool Astar<Node>::foundInList(std::vector<N,std::allocator<N>>,N)'
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(570): message : see reference to function template instantiation 'bool Astar<Node>::foundInList(std::vector<N,std::allocator<N>>,N)' being compiled
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(418,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(413): message : while compiling class template member function 'int Astar<Node>::getLeastF(std::vector<N,std::allocator<N>>)'
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(548): message : see reference to function template instantiation 'int Astar<Node>::getLeastF(std::vector<N,std::allocator<N>>)' being compiled
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(55,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(52): message : while compiling class template member function 'void Problem<Node>::setSolution(std::vector<N,std::allocator<N>>)'
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(560): message : see reference to function template instantiation 'void Problem<Node>::setSolution(std::vector<N,std::allocator<N>>)' being compiled
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Problem.h(64): message : see reference to class template instantiation 'Problem<Node>' being compiled
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(462,16): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(459): message : while compiling class template member function 'bool Astar<Node>::isConnection(N,N)'
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(518): message : see reference to function template instantiation 'bool Astar<Node>::isConnection(N,N)' being compiled
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(12,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(551): message : see reference to function template instantiation 'std::vector<N,std::allocator<N>> removeElement<N>(std::vector<N,std::allocator<N>>,int)' being compiled
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(538): message : while compiling class template member function 'std::vector<N,std::allocator<N>> Astar<N>::Solve(Problem<N> *,N)'
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\AstarProblems.cpp(100): message : see reference to function template instantiation 'std::vector<N,std::allocator<N>> Astar<N>::Solve(Problem<N> *,N)' being compiled
+          with
+          [
+              N=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(23,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(523): message : see reference to function template instantiation 'std::vector<N,std::allocator<N>> removeElement<N>(std::vector<N,std::allocator<N>>,T)' being compiled
+          with
+          [
+              N=Node,
+              T=Node
+          ]
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(478): message : while compiling class template member function 'void Astar<Node>::reconstructPath(Problem<Node> *)'
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(559): message : see reference to function template instantiation 'void Astar<Node>::reconstructPath(Problem<Node> *)' being compiled
+D:\c++ graphics\AstarProblems\AstarProblems\Astar.h(594): warning C4715: 'Astar<Node>::Solve': not all control paths return a value
+  AstarProblems.vcxproj -> D:\c++ graphics\AstarProblems\Debug\AstarProblems.exe

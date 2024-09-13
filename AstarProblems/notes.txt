@@ -1,0 +1,7 @@
+1- separating the a star in a header file //done :-)
+2- separatig the robot in a cpp file //done :-)
+3- correcting the intersection
+4- searching how to create dll 
+5- using call back functions to apply optional visualisation //done :-)
+6- optimising the A star, problem and other elements
+7- make a star not specefic to the problem in any way //done :-)
