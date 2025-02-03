@@ -32,6 +32,6 @@ C++ Compiler (if applicable)
 Git (to clone the repository):
 
 ```
-git clone https://github.com/profadham/Tetris-CLone.git
-cd Tetris-CLone
+git clone https://github.com/profadham/Astar-visualizer.git
+cd Astar-visualizer
 ```
