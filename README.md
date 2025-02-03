@@ -17,7 +17,7 @@ Welcome to the A* visualizer project. This project was aiming to help programmer
 
 # 🖥️ Screenshots
 <p float="left">
-<img src="https://github.com/profadham/Tetris-CLone/blob/e3a5b2f00e29effa2b7094cf983cd4e4a11dcd88/1.png" alt="Screenshot" width="35%", style = "margin-right: 10px"/>
-<img src="https://github.com/profadham/Tetris-CLone/blob/e49203730d22ad515123d2a7f510a0fe06480033/2.png" alt="Screenshot" width="35%"/>
-<img src="https://github.com/profadham/Tetris-CLone/blob/8995adb8f97bb3e25414a45e287541921b2a4b90/3.png" alt="Screenshot" width="35%"/>
+<img src="(https://github.com/profadham/Astar-visualizer/blob/4bbbe64b4045a75d2ea3d2471750b089faca9e58/11.png)" alt="Screenshot" width="35%", style = "margin-right: 10px"/>
+<img src="(https://github.com/profadham/Astar-visualizer/blob/4bbbe64b4045a75d2ea3d2471750b089faca9e58/33.png)" alt="Screenshot" width="35%"/>
+<img src="(https://github.com/profadham/Astar-visualizer/blob/4bbbe64b4045a75d2ea3d2471750b089faca9e58/55.png)" alt="Screenshot" width="35%"/>
 </p>
