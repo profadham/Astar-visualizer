@@ -35,3 +35,26 @@ Git (to clone the repository):
 git clone https://github.com/profadham/Astar-visualizer.git
 cd Astar-visualizer
 ```
+
+# 🤝 Contributing
+
+### Want to improve this project? Follow these steps:
+
+#### 1.Fork the repository 📌
+#### 2.Create a new branch
+
+```
+git checkout -b feature/YourFeatureName
+```
+#### 3.Commit your changes
+
+```
+git commit -m "Added feature: YourFeatureName"
+```
+#### 4.Push to the branch
+
+```
+git push origin feature/YourFeatureName
+```
+
+#### 5.Create a Pull Request on GitHub 🚀
