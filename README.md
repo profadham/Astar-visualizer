@@ -6,7 +6,6 @@ Welcome to the A* visualizer project. This project was aiming to help programmer
 ####  Features
 ####  Screenshots
 ####  Installation
-####  Usage
 ####  Contributing
 
 # Features
