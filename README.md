@@ -7,7 +7,6 @@ Welcome to the A* visualizer project. This project was aiming to help programmer
 ####  Screenshots
 ####  Installation
 ####  Usage
-####  Controls
 ####  Contributing
 
 # Features
@@ -15,9 +14,24 @@ Welcome to the A* visualizer project. This project was aiming to help programmer
 
 ✅ Allows user to see the shortest path from the start to end node that was calculated using the A* algorithm
 
+✅ This shortest path drawn in green is such that it does not path through any of the barriers drawn in white
+
 # 🖥️ Screenshots
 <p float="left">
 <img src="https://github.com/profadham/Astar-visualizer/blob/4bbbe64b4045a75d2ea3d2471750b089faca9e58/11.png" alt="Screenshot" width="35%", style = "margin-right: 10px"/>
 <img src="https://github.com/profadham/Astar-visualizer/blob/4bbbe64b4045a75d2ea3d2471750b089faca9e58/33.png" alt="Screenshot" width="35%"/>
 <img src="https://github.com/profadham/Astar-visualizer/blob/4bbbe64b4045a75d2ea3d2471750b089faca9e58/55.png" alt="Screenshot" width="35%"/>
 </p>
+
+# ⚙️ Installation
+### 📌 Prerequisites:
+C++ Compiler (if applicable)
+
+[SFML](https://www.sfml-dev.org/download/)
+
+Git (to clone the repository):
+
+```
+git clone https://github.com/profadham/Tetris-CLone.git
+cd Tetris-CLone
+```
